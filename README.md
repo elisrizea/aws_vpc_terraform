@@ -32,9 +32,9 @@
 # **Running:**
     Create a directory containing all my files.
     Edit terraform.tfvars and setup default values if required.
-    run;
-    terraform init
-    terraform apply
+    run:
+        terraform init
+        terraform apply
 
 # **Credits:**
     Alin Rizea
